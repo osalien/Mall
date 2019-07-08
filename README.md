@@ -1,2 +1,1 @@
 # Mall
-Shopping Mall
